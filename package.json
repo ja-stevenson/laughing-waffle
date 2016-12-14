@@ -1,0 +1,24 @@
+{
+  "name": "laughing-waffle",
+  "version": "1.0.0",
+  "description": "unknown",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ja-stevenson/laughing-waffle.git"
+  },
+  "author": "Jimmy Stevenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ja-stevenson/laughing-waffle/issues"
+  },
+  "homepage": "https://github.com/ja-stevenson/laughing-waffle#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0"
+  }
+}
